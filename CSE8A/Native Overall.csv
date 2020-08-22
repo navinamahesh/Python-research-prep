@@ -1,460 +1,460 @@
 ,DeID,Transfer Status,Overall.weighted.course.percentage..out.of.100.or.between.0.and.1..above.1.OK.if.E.C..,Primary Instructor (3rd Week),Enrollment Flag (3rd Week),Enrollment Flag (End of Term),Grade (End of Term)
-0,01USSUI3,False,0.9517,"Lerner, Sorin                      ",Y,Y,A  
-1,067XGZ0E,False,0.9702,"Alvarado, Christine J.             ",Y,Y,A  
-2,08Q3J2IX,False,0.9646,"Alvarado, Christine J.             ",Y,Y,A  
-3,09OZWKK6,False,0.8858,"Alvarado, Christine J.             ",Y,Y,B+ 
-4,0AQ81ICW,False,0.828,"Lerner, Sorin                      ",Y,Y,P  
-5,0B5U51EM,False,0.867,"Alvarado, Christine J.             ",Y,Y,B  
-6,0CSSQ80E,False,0.4436,"Lerner, Sorin                      ",Y,Y,F  
-7,0DI1ET58,False,0.9242,"Lerner, Sorin                      ",Y,Y,A- 
-8,0EV6RTFG,False,0.8591,"Lerner, Sorin                      ",Y,Y,B  
-9,0FP83YDC,False,0.8944,"Lerner, Sorin                      ",Y,Y,B+ 
-10,0J9V0GSD,False,0.9577,"Alvarado, Christine J.             ",Y,Y,A  
-11,0JFGV9J3,False,0.868,"Lerner, Sorin                      ",Y,Y,B  
-12,0LSZZHS7,False,0.841,"Lerner, Sorin                      ",Y,Y,B  
-13,0O15384D,False,0.9428,"Lerner, Sorin                      ",Y,Y,A  
-14,0RJR3UB2,False,0.9256,"Alvarado, Christine J.             ",Y,Y,P  
-15,0X91IN7M,False,0.9447,"Alvarado, Christine J.             ",Y,Y,A  
-16,0YNOBIVB,False,0.9239,"Alvarado, Christine J.             ",Y,Y,A  
-17,0YNUACNX,False,0.7757,"Lerner, Sorin                      ",Y,Y,P  
-19,112Y19QQ,False,0.9784,"Alvarado, Christine J.             ",Y,Y,A  
-20,12QC2AZI,False,0.9163,"Alvarado, Christine J.             ",Y,Y,A- 
-21,1AVMXYPB,False,0.3311,"Lerner, Sorin                      ",Y,Y,NP 
-22,1DSTM3NG,False,0.9489,"Alvarado, Christine J.             ",Y,Y,A  
-24,1GIFQR6E,False,0.8806,"Lerner, Sorin                      ",Y,Y,B+ 
-25,1KUMC6EK,False,0.9612,"Alvarado, Christine J.             ",Y,Y,A  
-26,1M23DVS0,False,0.8153,"Alvarado, Christine J.             ",Y,Y,B- 
-27,1MLB8DCO,False,0.633,"Alvarado, Christine J.             ",Y,Y,F  
-28,1NP4ECVC,False,0.9375,"Alvarado, Christine J.             ",Y,Y,A  
-29,1NTALV04,False,0.9596,"Lerner, Sorin                      ",Y,Y,A  
-30,1RHWG5OW,False,0.9012,"Lerner, Sorin                      ",Y,Y,A- 
-31,1VKDQJSO,False,0.9678,"Lerner, Sorin                      ",Y,Y,A  
-32,1ZZI02ZU,False,0.956,"Lerner, Sorin                      ",Y,Y,A  
-33,20P5QCCX,False,0.9304,"Alvarado, Christine J.             ",Y,Y,A  
-35,23RJJJAB,False,0.8511,"Alvarado, Christine J.             ",Y,Y,B  
-36,263ZOSV1,False,0.9286,"Alvarado, Christine J.             ",Y,Y,A- 
-37,2806MK4M,False,0.9339,"Alvarado, Christine J.             ",Y,Y,A  
-38,2823FJJI,False,0.9878,"Lerner, Sorin                      ",Y,Y,A+ 
-40,2FF6CRPY,False,0.9329999999999999,"Lerner, Sorin                      ",Y,Y,A  
-41,2FNJPDH5,False,0.9469,"Alvarado, Christine J.             ",Y,Y,A  
-42,2IDE1JDP,False,0.9764,"Alvarado, Christine J.             ",Y,Y,A  
-43,2LIGIRQQ,False,0.9179999999999999,"Alvarado, Christine J.             ",Y,Y,A- 
-44,2LX4PMA3,False,0.8154,"Alvarado, Christine J.             ",Y,Y,B- 
-46,2TJC8Z9P,False,0.9142,"Alvarado, Christine J.             ",Y,Y,A- 
-47,2VZHHT7Z,False,0.9654,"Lerner, Sorin                      ",Y,Y,A  
-49,36GB5HPE,False,0.6947,"Lerner, Sorin                      ",Y,Y,D  
-50,37RBMODO,False,0.9611,"Alvarado, Christine J.             ",Y,Y,A  
-51,38UH8DHW,False,0.9879,"Alvarado, Christine J.             ",Y,Y,A+ 
-52,3APO64LS,False,0.9554,"Lerner, Sorin                      ",Y,Y,A  
-53,3C8SI5NY,False,0.9737,"Alvarado, Christine J.             ",Y,Y,A  
-54,3DO59N6N,False,0.9872,"Alvarado, Christine J.             ",Y,Y,A+ 
-55,3ENSTSL2,False,0.875,"Lerner, Sorin                      ",Y,Y,B+ 
-57,3NSQWXDF,False,0.9163,"Lerner, Sorin                      ",Y,Y,A- 
-58,3S0SZ5C4,False,0.7636,"Lerner, Sorin                      ",Y,Y,C  
-59,3X17JGAS,False,0.9446,"Lerner, Sorin                      ",Y,Y,A  
-60,3XL3NANW,False,0.9881,"Alvarado, Christine J.             ",Y,Y,A+ 
-62,3Y9DUGIO,False,0.9549,"Lerner, Sorin                      ",Y,Y,A  
-63,3YTH4DOX,False,0.9789,"Lerner, Sorin                      ",Y,Y,A  
-64,41Q9NZH9,False,0.7688,"Lerner, Sorin                      ",Y,Y,P  
-65,43GS4AW7,False,0.9559,"Alvarado, Christine J.             ",Y,Y,A  
-66,4BWWZI8M,False,0.9234,"Alvarado, Christine J.             ",Y,Y,A- 
-67,4G0PPO88,False,0.951,"Alvarado, Christine J.             ",Y,Y,A  
-68,4IXQCIBM,False,0.981,"Lerner, Sorin                      ",Y,Y,A+ 
-69,4JNI3RFL,False,0.9938,"Alvarado, Christine J.             ",Y,Y,A+ 
-70,4L5SCOMJ,False,0.7935,"Lerner, Sorin                      ",Y,Y,C+ 
-71,4TY7IQMU,False,0.978,"Lerner, Sorin                      ",Y,Y,A  
-72,4VRCTUXD,False,0.9819,"Lerner, Sorin                      ",Y,Y,A+ 
-73,4WATCJ9A,False,0.9774,"Alvarado, Christine J.             ",Y,Y,A+ 
-74,58FGC341,False,0.7448,"Lerner, Sorin                      ",Y,Y,C  
-75,5BBIGKXW,False,0.9798,"Alvarado, Christine J.             ",Y,Y,A+ 
-76,5HB9ZW2S,False,0.9665,"Alvarado, Christine J.             ",Y,Y,A  
-78,5IVMMVD6,False,0.9279,"Lerner, Sorin                      ",Y,Y,A- 
-79,5LQH4ZED,False,0.9754,"Lerner, Sorin                      ",Y,Y,A  
-80,5OKID1KX,False,0.9095,"Lerner, Sorin                      ",Y,Y,A- 
-81,5PEXDAJQ,False,0.9816,"Alvarado, Christine J.             ",Y,Y,A+ 
-82,5UAIU1T4,False,0.9,"Alvarado, Christine J.             ",Y,Y,A- 
-83,5VA7IB2O,False,0.9934,"Alvarado, Christine J.             ",Y,Y,A+ 
-84,5VQOMWVO,False,0.866,"Alvarado, Christine J.             ",Y,Y,B  
-85,5XCURLDS,False,0.9038,"Alvarado, Christine J.             ",Y,Y,A- 
-86,5Z87GMPE,False,0.9727,"Alvarado, Christine J.             ",Y,Y,A  
-87,63BU2T1Z,False,0.9582,"Alvarado, Christine J.             ",Y,Y,A  
-88,63VGE34R,False,0.9752,"Alvarado, Christine J.             ",Y,Y,A  
-89,64SF3V4T,False,0.9391,"Lerner, Sorin                      ",Y,Y,A  
-90,65JLYPR7,False,0.8481,"Alvarado, Christine J.             ",Y,Y,B  
-91,668J389O,False,0.8279,"Lerner, Sorin                      ",Y,Y,C- 
-92,69U9087F,False,0.8088,"Alvarado, Christine J.             ",Y,Y,B- 
-93,6AN2NYEW,False,0.9772,"Lerner, Sorin                      ",Y,Y,A  
-94,6J7JKHYR,False,0.9683,"Lerner, Sorin                      ",Y,Y,A  
-95,6LZAC2JA,False,0.9373,"Lerner, Sorin                      ",Y,Y,A  
-96,6POBGC6F,False,0.9179999999999999,"Alvarado, Christine J.             ",Y,Y,A- 
-97,6QDAE16C,False,0.9681,"Alvarado, Christine J.             ",Y,Y,A  
-99,6SCSR8QI,False,0.8962,"Alvarado, Christine J.             ",Y,Y,B+ 
-100,6VGU8STT,False,0.9782,"Alvarado, Christine J.             ",Y,Y,A  
-101,6YW3QBWU,False,0.9285,"Lerner, Sorin                      ",Y,Y,A- 
-102,7105EJ1T,False,0.978,"Lerner, Sorin                      ",Y,Y,A+ 
-103,72GB717K,False,0.9086,"Alvarado, Christine J.             ",Y,Y,A- 
-104,73BD8V5W,False,0.4827,"Lerner, Sorin                      ",Y,Y,NP 
-106,78H841QG,False,0.905,"Lerner, Sorin                      ",Y,Y,A- 
-107,7FAO13VF,False,0.9588,"Alvarado, Christine J.             ",Y,Y,A  
-108,7KIWIMK3,False,0.9578,"Lerner, Sorin                      ",Y,Y,A  
-109,7OCUS5CI,False,0.7879999999999999,"Alvarado, Christine J.             ",Y,Y,B- 
-110,7Q7MQ3N3,False,0.9539,"Lerner, Sorin                      ",Y,Y,A  
-111,7ROMJT0U,False,0.9833,"Alvarado, Christine J.             ",Y,Y,A+ 
-112,7TNYSJV0,False,0.92,"Lerner, Sorin                      ",Y,Y,A- 
-114,7ZDR3PCO,False,0.9056,"Alvarado, Christine J.             ",Y,Y,A- 
-115,806STYZK,False,0.9355,"Lerner, Sorin                      ",Y,Y,A  
-116,8BPKB7M4,False,0.711,"Lerner, Sorin                      ",Y,Y,F  
-118,8JWV4GC6,False,0.9327,"Lerner, Sorin                      ",Y,Y,A  
-120,8WIYQTIR,False,0.7712,"Lerner, Sorin                      ",Y,Y,C+ 
-121,9FER7O5R,False,0.8776,"Lerner, Sorin                      ",Y,Y,B+ 
-122,9HBNNXT8,False,0.9832,"Alvarado, Christine J.             ",Y,Y,A+ 
-124,9IQJUAA6,False,0.9548,"Alvarado, Christine J.             ",Y,Y,A  
-125,9ISC9QSQ,False,0.9846,"Alvarado, Christine J.             ",Y,Y,A+ 
-126,9K73MBAY,False,0.9304,"Lerner, Sorin                      ",Y,Y,A  
-127,9L8BH6X1,False,0.9581,"Alvarado, Christine J.             ",Y,Y,A  
-129,9ONOJ0H6,False,0.6732,"Alvarado, Christine J.             ",Y,Y,F  
-130,9R9A8KB7,False,0.9808,"Alvarado, Christine J.             ",Y,Y,A+ 
-131,9V14RFLW,False,0.9731,"Alvarado, Christine J.             ",Y,Y,A  
-132,9VME0ZWK,False,0.8291,"Alvarado, Christine J.             ",Y,Y,B- 
-133,A5NMJKTE,False,0.8732,"Lerner, Sorin                      ",Y,Y,B+ 
-134,ADLZMXZF,False,0.9501,"Alvarado, Christine J.             ",Y,Y,A  
-135,AERWXBQT,False,0.9476,"Lerner, Sorin                      ",Y,Y,A  
-136,AG4JIR2V,False,0.8809,"Lerner, Sorin                      ",Y,Y,B+ 
-137,AGOOJIZC,False,0.8475,"Lerner, Sorin                      ",Y,Y,P  
-138,AGYSTFXE,False,0.9929,"Alvarado, Christine J.             ",Y,Y,A+ 
-139,AJTHCM05,False,0.9449,"Lerner, Sorin                      ",Y,Y,A  
-140,AMJRZOO4,False,0.9599,"Alvarado, Christine J.             ",Y,Y,A  
-141,ASDU4EW1,False,0.9079,"Alvarado, Christine J.             ",Y,Y,A- 
-142,AT11GC64,False,0.9135,"Lerner, Sorin                      ",Y,Y,A- 
-143,AV7JSUBP,False,0.9367,"Alvarado, Christine J.             ",Y,Y,A  
-144,AWKDXR5O,False,0.8922,"Lerner, Sorin                      ",Y,Y,C+ 
-145,AWLIQTMU,False,0.9605,"Alvarado, Christine J.             ",Y,Y,A  
-146,B0F0VHQM,False,0.9826,"Alvarado, Christine J.             ",Y,Y,A+ 
-147,B0NP46RQ,False,0.9355,"Lerner, Sorin                      ",Y,Y,A  
-149,B414GPAC,False,0.9263,"Lerner, Sorin                      ",Y,Y,A- 
-150,B613BEZ0,False,0.9588,"Lerner, Sorin                      ",Y,Y,A  
-151,B81U8RV8,False,0.8692,"Lerner, Sorin                      ",Y,Y,C  
-152,BBRJTF91,False,0.9942,"Lerner, Sorin                      ",Y,Y,A+ 
-153,BD4H09MX,False,0.9659,"Lerner, Sorin                      ",Y,Y,A  
-154,BDIP6BEU,False,0.9324,"Lerner, Sorin                      ",Y,Y,B  
-156,BG2PIXEX,False,0.9564,"Alvarado, Christine J.             ",Y,Y,A  
-157,BGSGV2HL,False,0.9590000000000001,"Alvarado, Christine J.             ",Y,Y,A  
-158,BR00GTJ5,False,0.9709,"Lerner, Sorin                      ",Y,Y,A  
-159,BSL7NDCZ,False,0.9417,"Alvarado, Christine J.             ",Y,Y,A  
-160,BZF1R4W0,False,0.7667,"Alvarado, Christine J.             ",Y,Y,F  
-161,C0MPLLR9,False,0.9304,"Lerner, Sorin                      ",Y,Y,A  
-162,C3WZSDHO,False,0.9531,"Alvarado, Christine J.             ",Y,Y,A  
-163,C5W50SOI,False,0.9266,"Lerner, Sorin                      ",Y,Y,A- 
-166,CDP5TDJM,False,0.9681,"Lerner, Sorin                      ",Y,Y,A  
-167,CGT9K6MK,False,0.9355,"Lerner, Sorin                      ",Y,Y,A  
-168,CJRV5WJF,False,0.9249,"Alvarado, Christine J.             ",Y,Y,A- 
-169,CL800MTT,False,0.8947,"Lerner, Sorin                      ",Y,Y,B+ 
-170,CL9HJ7DD,False,0.8436,"Alvarado, Christine J.             ",Y,Y,B  
-171,CLOZ5AAM,False,0.9463,"Alvarado, Christine J.             ",Y,Y,A  
-173,CMDC320F,False,0.9045,"Lerner, Sorin                      ",Y,Y,A- 
-174,CQ3HKOYX,False,0.9457,"Alvarado, Christine J.             ",Y,Y,A  
-175,CQPMMBE7,False,0.9066,"Lerner, Sorin                      ",Y,Y,A- 
-176,CRSI72RY,False,0.9509,"Alvarado, Christine J.             ",Y,Y,A  
-177,CSVU80MG,False,0.8754,"Alvarado, Christine J.             ",Y,Y,B+ 
-178,CW0TWPZR,False,0.9527,"Alvarado, Christine J.             ",Y,Y,A  
-179,CZIGXRYP,False,0.9683,"Alvarado, Christine J.             ",Y,Y,A  
-180,D226NMJP,False,0.9471,"Alvarado, Christine J.             ",Y,Y,A  
-181,D2PDHXCR,False,0.8883,"Alvarado, Christine J.             ",Y,Y,B+ 
-182,D4BND4OF,False,0.7234,"Lerner, Sorin                      ",Y,Y,C- 
-183,D58K0UOQ,False,0.9848,"Lerner, Sorin                      ",Y,Y,A+ 
-184,DDWN6VB1,False,0.9423,"Alvarado, Christine J.             ",Y,Y,A  
-185,DEYZMWO6,False,0.8029999999999999,"Lerner, Sorin                      ",Y,Y,B- 
-187,DJBVREYM,False,0.8918,"Lerner, Sorin                      ",Y,Y,B+ 
-188,DJVQXO0Y,False,0.8891,"Alvarado, Christine J.             ",Y,Y,B+ 
-189,DN5L5E02,False,0.9234,"Alvarado, Christine J.             ",Y,Y,A- 
-191,DTZ3WEFP,False,0.9873,"Alvarado, Christine J.             ",Y,Y,A+ 
-192,DUKBIFIV,False,0.9626,"Alvarado, Christine J.             ",Y,Y,A  
-193,DWRQLM42,False,0.9601,"Alvarado, Christine J.             ",Y,Y,A  
-194,E1K24ERG,False,0.8682,"Lerner, Sorin                      ",Y,Y,B  
-195,E7D1676F,False,0.9229999999999999,"Lerner, Sorin                      ",Y,Y,A- 
-197,E7V1XN6U,False,0.9497,"Alvarado, Christine J.             ",Y,Y,A  
-198,E885V9W9,False,0.8515,"Alvarado, Christine J.             ",Y,Y,B  
-199,E8QP4BFL,False,0.8918,"Alvarado, Christine J.             ",Y,Y,B+ 
-200,E96EJ1W7,False,0.9145,"Lerner, Sorin                      ",Y,Y,A- 
-201,EBRJ26QD,False,0.9216,"Alvarado, Christine J.             ",Y,Y,A- 
-202,EFM5M2F2,False,0.9671,"Lerner, Sorin                      ",Y,Y,A  
-203,EFM5M2F2,False,0.9671,"Lerner, Sorin                      ",Y,Y,A  
-204,EG06PPYB,False,0.7598,"Alvarado, Christine J.             ",Y,Y,C  
-206,EN9M2QX9,False,0.8091,"Lerner, Sorin                      ",Y,Y,B- 
-207,ES5TP0KY,False,0.8884,"Lerner, Sorin                      ",Y,Y,B+ 
-208,EU9L3V2S,False,0.7901,"Alvarado, Christine J.             ",Y,Y,C+ 
-209,EXBTEBFC,False,0.9346,"Alvarado, Christine J.             ",Y,Y,A  
-210,EZM58OT8,False,0.9693,"Alvarado, Christine J.             ",Y,Y,A  
-211,F1OC0OSJ,False,0.865,"Alvarado, Christine J.             ",Y,Y,B  
-212,F22XWAA8,False,0.9520000000000001,"Lerner, Sorin                      ",Y,Y,A  
-213,F3F1ZOMR,False,0.9654,"Lerner, Sorin                      ",Y,Y,A  
-214,F74NGECY,False,0.9766,"Alvarado, Christine J.             ",Y,Y,A  
-215,F9ZB9QXX,False,0.9398,"Lerner, Sorin                      ",Y,Y,A  
-216,FCSCRQ69,False,0.9875,"Alvarado, Christine J.             ",Y,Y,A+ 
-217,FET6T324,False,0.9026,"Alvarado, Christine J.             ",Y,Y,A- 
-218,FNTCHD74,False,0.9614,"Lerner, Sorin                      ",Y,Y,A  
-219,FVZD1SZ5,False,0.8377,"Lerner, Sorin                      ",Y,Y,B  
-220,G05T833E,False,0.9823,"Lerner, Sorin                      ",Y,Y,A+ 
-221,G5TXVPT5,False,0.8954,"Lerner, Sorin                      ",Y,Y,B+ 
-224,GB15HU58,False,0.9146,"Lerner, Sorin                      ",Y,Y,A- 
-225,GFYRZ57B,False,0.6584,"Alvarado, Christine J.             ",Y,Y,F  
-226,GIYYL71M,False,0.9641,"Alvarado, Christine J.             ",Y,Y,A  
-227,GK12PDL9,False,0.9534,"Lerner, Sorin                      ",Y,Y,A  
-228,GPQIUEA9,False,0.9529,"Lerner, Sorin                      ",Y,Y,A  
-229,GR6F8DYJ,False,0.6946,"Lerner, Sorin                      ",Y,Y,F  
-230,GRPNYVAS,False,0.9315,"Lerner, Sorin                      ",Y,Y,A  
-231,GV8O09G5,False,0.9928,"Lerner, Sorin                      ",Y,Y,A+ 
-232,GYM9HLU1,False,0.9541,"Alvarado, Christine J.             ",Y,Y,A  
-233,GZ7147OJ,False,0.9351,"Alvarado, Christine J.             ",Y,Y,A  
-234,H05DIVIH,False,0.9472,"Alvarado, Christine J.             ",Y,Y,A  
-235,H2OPMGTZ,False,0.9147,"Alvarado, Christine J.             ",Y,Y,A- 
-236,H2Z5S6CE,False,0.9773,"Alvarado, Christine J.             ",Y,Y,A  
-238,HJSLFCBH,False,0.9524,"Lerner, Sorin                      ",Y,Y,A  
-239,HL5L331C,False,0.956,"Alvarado, Christine J.             ",Y,Y,A  
-240,HSFAS81S,False,0.9051,"Alvarado, Christine J.             ",Y,Y,A- 
-241,HW3IKNUC,False,0.9733,"Lerner, Sorin                      ",Y,Y,A  
-242,HZ91TFR7,False,0.7831,"Alvarado, Christine J.             ",Y,Y,C+ 
-243,I56PLFF0,False,0.9684,"Lerner, Sorin                      ",Y,Y,A  
-244,I5TBS6UK,False,0.9225,"Lerner, Sorin                      ",Y,Y,A- 
-245,I8OCRZQK,False,0.9793,"Lerner, Sorin                      ",Y,Y,A  
-246,IEHVVYEF,False,0.9670000000000001,"Lerner, Sorin                      ",Y,Y,A  
-248,IHEKLGA1,False,0.8926,"Lerner, Sorin                      ",Y,Y,B+ 
-249,IHSNE5ZD,False,0.9673,"Lerner, Sorin                      ",Y,Y,A  
-251,IP3FMI9B,False,0.9356,"Alvarado, Christine J.             ",Y,Y,A  
-252,IR5RDF7M,False,0.9594,"Alvarado, Christine J.             ",Y,Y,A  
-253,ISVFEMZR,False,0.9289,"Alvarado, Christine J.             ",Y,Y,A- 
-254,ITI1OT02,False,0.3918,"Lerner, Sorin                      ",Y,Y,F  
-255,IU5XZVEU,False,0.4044,"Lerner, Sorin                      ",Y,Y,F  
-256,IVHRLB7K,False,0.5384,"Alvarado, Christine J.             ",Y,Y,F  
-257,IWYOZJST,False,0.9166,"Alvarado, Christine J.             ",Y,Y,A- 
-258,IYOPPGV5,False,0.9315,"Alvarado, Christine J.             ",Y,Y,A  
-259,IZV79Z1B,False,0.9706,"Alvarado, Christine J.             ",Y,Y,A  
-260,J17QWOUJ,False,0.9345,"Alvarado, Christine J.             ",Y,Y,A  
-261,J459XRL1,False,0.9357,"Lerner, Sorin                      ",Y,Y,A  
-263,J8GI9DFV,False,0.9846,"Lerner, Sorin                      ",Y,Y,A+ 
-264,J8QWEZXF,False,0.7872,"Lerner, Sorin                      ",Y,Y,C+ 
-265,JAX4144P,False,0.8612,"Lerner, Sorin                      ",Y,Y,B  
-266,JE0UDU7G,False,0.9392,"Alvarado, Christine J.             ",Y,Y,A  
-267,JGB3L5TV,False,0.9329999999999999,"Lerner, Sorin                      ",Y,Y,A  
-268,JL2CQO0Y,False,0.8065,"Alvarado, Christine J.             ",Y,Y,B- 
-269,JMB7JZQE,False,0.8943,"Lerner, Sorin                      ",Y,Y,B+ 
-270,JNPG46PU,False,0.8837,"Alvarado, Christine J.             ",Y,Y,B+ 
-271,JQW9ZYI7,False,0.8994,"Alvarado, Christine J.             ",Y,Y,B+ 
-272,JS8I4GHG,False,0.8979,"Lerner, Sorin                      ",Y,Y,B+ 
-273,JV5P771G,False,0.9128,"Lerner, Sorin                      ",Y,Y,A- 
-274,JZUY5MHH,False,0.9822,"Alvarado, Christine J.             ",Y,Y,A+ 
-275,K0FK5GG0,False,0.8641,"Alvarado, Christine J.             ",Y,Y,B  
-276,K230LIFQ,False,0.446,"Lerner, Sorin                      ",Y,Y,I  
-278,K4O7N0KG,False,0.7612,"Lerner, Sorin                      ",Y,Y,F  
-279,K58KG156,False,0.986,"Alvarado, Christine J.             ",Y,Y,A+ 
-280,K9444F6X,False,0.9687,"Lerner, Sorin                      ",Y,Y,A  
-281,K9M0R5NS,False,0.8593,"Lerner, Sorin                      ",Y,Y,B  
-282,KBC4X3Q8,False,0.9359,"Lerner, Sorin                      ",Y,Y,A  
-283,KEVGY2QF,False,0.9573,"Lerner, Sorin                      ",Y,Y,A  
-284,KILP19JM,False,0.4799,"Lerner, Sorin                      ",Y,Y,F  
-285,KK6138WW,False,0.9858,"Lerner, Sorin                      ",Y,Y,A+ 
-286,KKYJYTTD,False,0.9109,"Lerner, Sorin                      ",Y,Y,A- 
-288,KUS3T8XV,False,0.9054,"Lerner, Sorin                      ",Y,Y,A- 
-289,KY0I23AD,False,0.9787,"Lerner, Sorin                      ",Y,Y,A  
-290,KY82OGR8,False,0.972,"Lerner, Sorin                      ",Y,Y,A  
-291,L0EUXJ5Q,False,0.9399,"Lerner, Sorin                      ",Y,Y,A  
-292,L0WFR75T,False,0.9461,"Lerner, Sorin                      ",Y,Y,A  
-293,L3301MTE,False,0.6574,"Lerner, Sorin                      ",Y,Y,F  
-294,L6N9CT2Z,False,0.9758,"Lerner, Sorin                      ",Y,Y,A  
-295,L7ASJVIO,False,0.9372,"Alvarado, Christine J.             ",Y,Y,A  
-296,LAP4IT5J,False,0.9641,"Alvarado, Christine J.             ",Y,Y,A  
-297,LGSKLEBN,False,0.9555,"Lerner, Sorin                      ",Y,Y,A  
-298,LI0L0EDU,False,0.96,"Lerner, Sorin                      ",Y,Y,A  
-299,LK0AV7SN,False,0.8225,"Alvarado, Christine J.             ",Y,Y,B- 
-300,LKMRGJH2,False,0.9514,"Alvarado, Christine J.             ",Y,Y,A  
-301,LMJAIJ2D,False,0.9951,"Alvarado, Christine J.             ",Y,Y,A+ 
-302,LR3PWW8B,False,0.8685,"Lerner, Sorin                      ",Y,Y,B  
-303,LT4ZCY4I,False,0.8288,"Lerner, Sorin                      ",Y,Y,B- 
-304,LX5BT4UT,False,0.8315,"Alvarado, Christine J.             ",Y,Y,P  
-305,LYVRVVL8,False,0.9529,"Alvarado, Christine J.             ",Y,Y,A  
-306,LZ0DBCRW,False,0.8478,"Alvarado, Christine J.             ",Y,Y,B  
-307,M0IWKTA7,False,0.9354,"Lerner, Sorin                      ",Y,Y,A  
-308,M0XVLNB1,False,0.9392,"Alvarado, Christine J.             ",Y,Y,A  
-310,M8J3O0P6,False,0.8827,"Alvarado, Christine J.             ",Y,Y,B+ 
-311,MAZ5AMVO,False,0.7082,"Lerner, Sorin                      ",Y,Y,F  
-312,MDYUAN6J,False,0.8551,"Lerner, Sorin                      ",Y,Y,B  
-313,MRIN3H3P,False,0.9239,"Alvarado, Christine J.             ",Y,Y,A- 
-314,MS58HO5O,False,0.9814,"Alvarado, Christine J.             ",Y,Y,A+ 
-315,MTKRTVXG,False,0.2636,"Alvarado, Christine J.             ",Y,Y,NP 
-316,MWPCH3Z0,False,0.8587,"Alvarado, Christine J.             ",Y,Y,B  
-317,N04IZFPP,False,0.9276,"Alvarado, Christine J.             ",Y,Y,A- 
-318,N696TM9G,False,0.9828,"Lerner, Sorin                      ",Y,Y,A+ 
-319,N9QUM2TI,False,0.9520000000000001,"Lerner, Sorin                      ",Y,Y,A  
-320,NCH6KPWX,False,0.9749,"Alvarado, Christine J.             ",Y,Y,A  
-321,NI2X7ZFF,False,0.3894,"Alvarado, Christine J.             ",Y,Y,F  
-322,NKJ6WPZ7,False,0.8385,"Lerner, Sorin                      ",Y,Y,B  
-323,NL2TXV52,False,0.9094,"Alvarado, Christine J.             ",Y,Y,A- 
-324,NL3XNCCZ,False,0.9911,"Alvarado, Christine J.             ",Y,Y,A+ 
-326,NOCUNUYL,False,0.8721,"Lerner, Sorin                      ",Y,Y,B+ 
-327,NOTLEB1I,False,0.8484,"Alvarado, Christine J.             ",Y,Y,B  
-328,NRNHOJ8O,False,0.8516,"Lerner, Sorin                      ",Y,Y,B  
-331,NWELEL8P,False,0.9345,"Lerner, Sorin                      ",Y,Y,A  
-333,NYW5ODPV,False,0.9543,"Lerner, Sorin                      ",Y,Y,A  
-334,O14CJMHJ,False,0.977,"Lerner, Sorin                      ",Y,Y,A+ 
-335,O2ND6P18,False,0.9798,"Alvarado, Christine J.             ",Y,Y,A+ 
-336,O6IQSPP1,False,0.9593,"Alvarado, Christine J.             ",Y,Y,A  
-337,O9M9R0NW,False,0.9115,"Alvarado, Christine J.             ",Y,Y,A- 
-338,OBR5XS0L,False,0.9873,"Alvarado, Christine J.             ",Y,Y,A+ 
-339,OFCVB39Y,False,0.8857,"Lerner, Sorin                      ",Y,Y,B+ 
-340,OFS485M5,False,0.9546,"Alvarado, Christine J.             ",Y,Y,A  
-341,OI6KDEMT,False,0.8106,"Lerner, Sorin                      ",Y,Y,B- 
-343,OP30VHLJ,False,0.9353,"Lerner, Sorin                      ",Y,Y,A  
-344,OQ1WS9NK,False,0.9531,"Alvarado, Christine J.             ",Y,Y,A  
-345,P08QK7O7,False,0.9707,"Alvarado, Christine J.             ",Y,Y,A+ 
-346,P7Z82NUN,False,0.8266,"Lerner, Sorin                      ",Y,Y,B- 
-347,P81O12J2,False,0.9549,"Alvarado, Christine J.             ",Y,Y,A  
-348,PAL5MWOM,False,0.8823,"Lerner, Sorin                      ",Y,Y,B+ 
-349,PCHV3407,False,0.9019,"Lerner, Sorin                      ",Y,Y,A- 
-350,PDRUHDH6,False,0.9503,"Alvarado, Christine J.             ",Y,Y,A  
-351,PDRUHDH6,False,0.9503,"Alvarado, Christine J.             ",Y,Y,A  
-352,PEJWD34Y,False,0.9192,"Lerner, Sorin                      ",Y,Y,A- 
-353,PF6TTOET,False,0.9485,"Lerner, Sorin                      ",Y,Y,A  
-354,PJGB7PX3,False,0.9179,"Lerner, Sorin                      ",Y,Y,A- 
-356,PM81UNCC,False,0.8846,"Alvarado, Christine J.             ",Y,Y,B+ 
-357,PMI316M8,False,0.7515,"Lerner, Sorin                      ",Y,Y,D  
-358,PNAYBPRJ,False,0.9589,"Alvarado, Christine J.             ",Y,Y,A  
-360,PPACSPZ0,False,0.8423,"Alvarado, Christine J.             ",Y,Y,B  
-361,PQVDOD1Q,False,0.9044,"Lerner, Sorin                      ",Y,Y,A- 
-363,PYM0DP2G,False,0.8867,"Alvarado, Christine J.             ",Y,Y,B+ 
-365,Q2QBQQPL,False,0.8871,"Alvarado, Christine J.             ",Y,Y,B+ 
-366,Q3CIPJRB,False,0.9056,"Lerner, Sorin                      ",Y,Y,A- 
-367,Q4OIBFL1,False,0.9299,"Lerner, Sorin                      ",Y,Y,A  
-368,Q94RGS14,False,0.9183,"Alvarado, Christine J.             ",Y,Y,A- 
-369,QAEP4BAP,False,0.9468,"Lerner, Sorin                      ",Y,Y,A  
-370,QECFHSYP,False,0.8903,"Alvarado, Christine J.             ",Y,Y,B+ 
-371,QGAGXYDE,False,0.9621,"Lerner, Sorin                      ",Y,Y,A  
-372,QHYGKP8X,False,0.7957,"Alvarado, Christine J.             ",Y,Y,P  
-373,QKKEGR2D,False,0.9878,"Lerner, Sorin                      ",Y,Y,A+ 
-374,QRBSV3FX,False,0.5835,"Alvarado, Christine J.             ",Y,Y,F  
-375,QS8OFEVB,False,0.8444,"Lerner, Sorin                      ",Y,Y,B  
-376,QTHEP0B6,False,0.9488,"Lerner, Sorin                      ",Y,Y,A  
-377,QTMIZ2YK,False,0.7281,"Lerner, Sorin                      ",Y,Y,F  
-378,QUYJ46VQ,False,0.9209999999999999,"Lerner, Sorin                      ",Y,Y,A- 
-379,QV1UMQ4S,False,0.9159,"Lerner, Sorin                      ",Y,Y,A- 
-381,QX8GBG30,False,0.7852,"Lerner, Sorin                      ",Y,Y,C+ 
-385,R3XRCRNI,False,0.7765,"Lerner, Sorin                      ",Y,Y,C+ 
-386,R6269XF8,False,0.9633,"Alvarado, Christine J.             ",Y,Y,A  
-387,R7SVGVDT,False,0.86,"Lerner, Sorin                      ",Y,Y,B  
-388,R9DLP03N,False,0.8984,"Lerner, Sorin                      ",Y,Y,B+ 
-389,RAIAK65W,False,0.9168,"Alvarado, Christine J.             ",Y,Y,A- 
-390,RFEZET82,False,0.9607,"Lerner, Sorin                      ",Y,Y,A  
-391,RJJCD1N3,False,0.9345,"Alvarado, Christine J.             ",Y,Y,A  
-392,RLG9E2ZV,False,0.9824,"Lerner, Sorin                      ",Y,Y,A+ 
-393,RMRJCO49,False,0.7364,"Lerner, Sorin                      ",Y,Y,C  
-394,RNWRAIYU,False,0.9408,"Lerner, Sorin                      ",Y,Y,A  
-395,ROADWW4Z,False,0.9871,"Alvarado, Christine J.             ",Y,Y,A+ 
-396,RP8U02PI,False,0.8807,"Lerner, Sorin                      ",Y,Y,B+ 
-397,RQOXRHO3,False,0.9324,"Lerner, Sorin                      ",Y,Y,A  
-398,RQU3W53Q,False,0.9661,"Alvarado, Christine J.             ",Y,Y,A  
-399,RSXIMS8L,False,0.7637,"Alvarado, Christine J.             ",Y,Y,C  
-401,RW3DERRC,False,0.8340000000000001,"Lerner, Sorin                      ",Y,Y,B  
-402,RWYCXIXB,False,0.9889,"Alvarado, Christine J.             ",Y,Y,A+ 
-403,S77LVX9W,False,0.8755,"Alvarado, Christine J.             ",Y,Y,B+ 
-404,S8AQ1E0W,False,0.8838,"Lerner, Sorin                      ",Y,Y,B+ 
-405,S9PCRZCY,False,0.9099,"Alvarado, Christine J.             ",Y,Y,A- 
-406,SD3WLRSB,False,0.9164,"Lerner, Sorin                      ",Y,Y,A- 
-407,SERRF52V,False,0.9135,"Lerner, Sorin                      ",Y,Y,A- 
-408,SHZEH9DZ,False,0.9917,"Lerner, Sorin                      ",Y,Y,A+ 
-409,SK2OYHEO,False,0.9889,"Alvarado, Christine J.             ",Y,Y,A+ 
-410,SNWLT08W,False,0.9889,"Alvarado, Christine J.             ",Y,Y,A+ 
-411,SOHR6ITT,False,0.7117,"Lerner, Sorin                      ",Y,Y,F  
-412,SQDFVKSL,False,0.9036,"Lerner, Sorin                      ",Y,Y,A- 
-413,SSV3612M,False,0.7366,"Lerner, Sorin                      ",Y,Y,D  
-414,ST4WA3DA,False,0.986,"Alvarado, Christine J.             ",Y,Y,A+ 
-415,SWMJL3GI,False,0.7498,"Lerner, Sorin                      ",Y,Y,C  
-416,T0HH089U,False,0.9578,"Lerner, Sorin                      ",Y,Y,A  
-418,T31RR9FE,False,0.8116,"Lerner, Sorin                      ",Y,Y,B- 
-419,T38BOXVJ,False,0.9365,"Lerner, Sorin                      ",Y,Y,A  
-421,T4VUTUQF,False,0.9173,"Lerner, Sorin                      ",Y,Y,A- 
-422,T527R78N,False,0.9479,"Lerner, Sorin                      ",Y,Y,A  
-423,T9NH0TQ9,False,0.8928,"Lerner, Sorin                      ",Y,Y,B+ 
-425,TB89HD43,False,0.9393,"Alvarado, Christine J.             ",Y,Y,A  
-426,TCLB82FF,False,0.7436,"Alvarado, Christine J.             ",Y,Y,C  
-427,TDA1QQPZ,False,0.9216,"Alvarado, Christine J.             ",Y,Y,A- 
-428,TIODLL4L,False,0.8379,"Lerner, Sorin                      ",Y,Y,B  
-429,TK1F70UM,False,0.8943,"Lerner, Sorin                      ",Y,Y,B+ 
-430,TLI98M8L,False,0.5928,"Alvarado, Christine J.             ",Y,Y,NP 
-431,TMT7GS7I,False,0.8625,"Lerner, Sorin                      ",Y,Y,B  
-432,TN5HUQXA,False,0.9001,"Alvarado, Christine J.             ",Y,Y,A- 
-433,TOL2C8IW,False,0.9681,"Alvarado, Christine J.             ",Y,Y,A  
-434,TU32JQ00,False,0.9087,"Lerner, Sorin                      ",Y,Y,A- 
-436,TYKOSK3G,False,0.9895,"Lerner, Sorin                      ",Y,Y,A+ 
-437,TYROY0V2,False,0.853,"Lerner, Sorin                      ",Y,Y,B  
-438,U44P0KES,False,0.945,"Alvarado, Christine J.             ",Y,Y,A  
-439,U4I688QV,False,0.9889,"Alvarado, Christine J.             ",Y,Y,A+ 
-440,U5T1NG6U,False,0.9613,"Alvarado, Christine J.             ",Y,Y,A  
-441,UDYR522Z,False,0.5179,"Alvarado, Christine J.             ",Y,Y,F  
-442,UH5C5WY6,False,0.9377,"Alvarado, Christine J.             ",Y,Y,A  
-443,UI51SANE,False,0.9478,"Alvarado, Christine J.             ",Y,Y,A  
-446,UIXGQJ1S,False,0.9845,"Alvarado, Christine J.             ",Y,Y,A+ 
-447,UMXIQQJC,False,0.9640000000000001,"Lerner, Sorin                      ",Y,Y,A  
-448,UQ1V8VVF,False,0.9777,"Alvarado, Christine J.             ",Y,Y,A  
-449,UQEVR1U7,False,0.8742,"Lerner, Sorin                      ",Y,Y,B+ 
-450,UWLZ2TMM,False,0.7673,"Lerner, Sorin                      ",Y,Y,C  
-451,UWWDTQ1H,False,0.8661,"Lerner, Sorin                      ",Y,Y,B  
-452,UZSWSQ3J,False,0.9812,"Lerner, Sorin                      ",Y,Y,A+ 
-453,V0JWYM5B,False,0.9218,"Lerner, Sorin                      ",Y,Y,A- 
-454,V0ZDT5YD,False,0.9103,"Lerner, Sorin                      ",Y,Y,A- 
-457,VGOLLU0S,False,0.9394,"Alvarado, Christine J.             ",Y,Y,A  
-458,VHZ2MBN6,False,0.9784,"Lerner, Sorin                      ",Y,Y,A  
-459,VNFYM2K5,False,0.9319,"Lerner, Sorin                      ",Y,Y,A  
-460,VPW99F3X,False,0.9842,"Alvarado, Christine J.             ",Y,Y,A+ 
-461,VVN0PWET,False,0.9547,"Alvarado, Christine J.             ",Y,Y,A  
-462,VWTD1YZA,False,0.7949,"Alvarado, Christine J.             ",Y,Y,C+ 
-463,VY4MZGE7,False,0.8691,"Alvarado, Christine J.             ",Y,Y,B  
-464,W214WAMH,False,0.8394,"Lerner, Sorin                      ",Y,Y,B  
-466,WCNPLLO3,False,0.9416,"Alvarado, Christine J.             ",Y,Y,A  
-467,WJC0S984,False,0.7887,"Lerner, Sorin                      ",Y,Y,C+ 
-468,WKQ3YXRO,False,0.9740000000000001,"Alvarado, Christine J.             ",Y,Y,A  
-469,WMQIKGMG,False,0.9387,"Lerner, Sorin                      ",Y,Y,A  
-470,WU0TQMUM,False,0.8706,"Alvarado, Christine J.             ",Y,Y,B+ 
-471,WXTT1VJ4,False,0.8684,"Alvarado, Christine J.             ",Y,Y,B  
-472,WXUWSSX8,False,0.8293,"Lerner, Sorin                      ",Y,Y,B- 
-473,WZX0UDPH,False,0.9881,"Alvarado, Christine J.             ",Y,Y,A+ 
-474,X2673J6L,False,0.9443,"Lerner, Sorin                      ",Y,Y,A  
-475,XFE0GECY,False,0.8868,"Lerner, Sorin                      ",Y,Y,B+ 
-476,XGDEG69D,False,0.8852,"Lerner, Sorin                      ",Y,Y,P  
-477,XIJ141P2,False,0.9857,"Alvarado, Christine J.             ",Y,Y,A+ 
-478,XIJNBZVD,False,0.9156,"Lerner, Sorin                      ",Y,Y,A- 
-479,XIZON7YH,False,0.8943,"Lerner, Sorin                      ",Y,Y,B+ 
-480,XLY0LOX9,False,0.9109,"Alvarado, Christine J.             ",Y,Y,A- 
-481,XMEQXJWQ,False,0.9787,"Alvarado, Christine J.             ",Y,Y,A  
-482,XYUQZ9N4,False,0.9452,"Lerner, Sorin                      ",Y,Y,A  
-483,XZSTYJX4,False,0.9390000000000001,"Alvarado, Christine J.             ",Y,Y,A  
-484,Y0TCWZ5T,False,0.9702,"Lerner, Sorin                      ",Y,Y,A  
-485,Y0TCWZ5T,False,0.9702,"Lerner, Sorin                      ",Y,Y,A  
-486,Y2BE0Q8A,False,0.8383,"Alvarado, Christine J.             ",Y,Y,B  
-487,Y8OAUQ5S,False,0.9890000000000001,"Lerner, Sorin                      ",Y,Y,A+ 
-490,YI3A9OVR,False,0.9069,"Alvarado, Christine J.             ",Y,Y,P  
-491,YI7230RK,False,0.9782,"Alvarado, Christine J.             ",Y,Y,A  
-492,YL8IXZJ0,False,0.9697,"Lerner, Sorin                      ",Y,Y,A  
-493,YLZIMV7U,False,0.8908,"Alvarado, Christine J.             ",Y,Y,B+ 
-494,YM2TIKL3,False,0.6948,"Alvarado, Christine J.             ",Y,Y,F  
-495,YOT5DMBO,False,0.7216,"Alvarado, Christine J.             ",Y,Y,C- 
-496,YRKLV7Q7,False,0.987,"Lerner, Sorin                      ",Y,Y,A+ 
-497,YUJQPQU4,False,0.9698,"Alvarado, Christine J.             ",Y,Y,A  
-498,YY2ZOLVA,False,0.898,"Lerner, Sorin                      ",Y,Y,B+ 
-499,Z0RX8XJ5,False,0.9139,"Alvarado, Christine J.             ",Y,Y,A- 
-500,Z71AITNN,False,0.8053,"Lerner, Sorin                      ",Y,Y,P  
-501,Z7EF73TL,False,0.7276,"Lerner, Sorin                      ",Y,Y,F  
-502,Z7I3KBTW,False,0.9465,"Alvarado, Christine J.             ",Y,Y,A  
-503,Z8OUCK0Q,False,0.9406,"Lerner, Sorin                      ",Y,Y,A  
-504,ZB71H0JA,False,0.8925,"Lerner, Sorin                      ",Y,Y,P  
-505,ZB74VNZ0,False,0.8142,"Alvarado, Christine J.             ",Y,Y,B- 
-506,ZDT8X2NB,False,0.9091,"Alvarado, Christine J.             ",Y,Y,A- 
-507,ZHJCCN69,False,0.9639,"Alvarado, Christine J.             ",Y,Y,A  
-508,ZIGXPHDZ,False,0.7676,"Lerner, Sorin                      ",Y,Y,C  
-509,ZJ6KG27S,False,0.8912,"Lerner, Sorin                      ",Y,Y,B+ 
-510,ZJSMFC90,False,0.9573,"Alvarado, Christine J.             ",Y,Y,A  
-511,ZL9IUHFE,False,0.9415,"Alvarado, Christine J.             ",Y,Y,A  
-512,ZLUQ64JU,False,0.6738,"Lerner, Sorin                      ",Y,Y,F  
-513,ZMUMVQYI,False,0.745,"Alvarado, Christine J.             ",Y,Y,D  
-514,ZN7NCZI5,False,0.9668,"Lerner, Sorin                      ",Y,Y,A  
-515,ZOP27CR8,False,0.8971,"Lerner, Sorin                      ",Y,Y,B+ 
-516,ZST5JOVK,False,0.9254,"Alvarado, Christine J.             ",Y,Y,A- 
-518,ZYYGJAY0,False,0.9512,"Alvarado, Christine J.             ",Y,Y,A  
+0,01USSUI3,False,95.17,"Lerner, Sorin                      ",Y,Y,A  
+1,067XGZ0E,False,97.02,"Alvarado, Christine J.             ",Y,Y,A  
+2,08Q3J2IX,False,96.46000000000001,"Alvarado, Christine J.             ",Y,Y,A  
+3,09OZWKK6,False,88.58,"Alvarado, Christine J.             ",Y,Y,B+ 
+4,0AQ81ICW,False,82.8,"Lerner, Sorin                      ",Y,Y,P  
+5,0B5U51EM,False,86.7,"Alvarado, Christine J.             ",Y,Y,B  
+6,0CSSQ80E,False,44.36,"Lerner, Sorin                      ",Y,Y,F  
+7,0DI1ET58,False,92.42,"Lerner, Sorin                      ",Y,Y,A- 
+8,0EV6RTFG,False,85.91,"Lerner, Sorin                      ",Y,Y,B  
+9,0FP83YDC,False,89.44,"Lerner, Sorin                      ",Y,Y,B+ 
+10,0J9V0GSD,False,95.77,"Alvarado, Christine J.             ",Y,Y,A  
+11,0JFGV9J3,False,86.8,"Lerner, Sorin                      ",Y,Y,B  
+12,0LSZZHS7,False,84.1,"Lerner, Sorin                      ",Y,Y,B  
+13,0O15384D,False,94.28,"Lerner, Sorin                      ",Y,Y,A  
+14,0RJR3UB2,False,92.56,"Alvarado, Christine J.             ",Y,Y,P  
+15,0X91IN7M,False,94.47,"Alvarado, Christine J.             ",Y,Y,A  
+16,0YNOBIVB,False,92.39,"Alvarado, Christine J.             ",Y,Y,A  
+17,0YNUACNX,False,77.57,"Lerner, Sorin                      ",Y,Y,P  
+19,112Y19QQ,False,97.84,"Alvarado, Christine J.             ",Y,Y,A  
+20,12QC2AZI,False,91.63,"Alvarado, Christine J.             ",Y,Y,A- 
+21,1AVMXYPB,False,33.11,"Lerner, Sorin                      ",Y,Y,NP 
+22,1DSTM3NG,False,94.89,"Alvarado, Christine J.             ",Y,Y,A  
+24,1GIFQR6E,False,88.06,"Lerner, Sorin                      ",Y,Y,B+ 
+25,1KUMC6EK,False,96.12,"Alvarado, Christine J.             ",Y,Y,A  
+26,1M23DVS0,False,81.53,"Alvarado, Christine J.             ",Y,Y,B- 
+27,1MLB8DCO,False,63.3,"Alvarado, Christine J.             ",Y,Y,F  
+28,1NP4ECVC,False,93.75,"Alvarado, Christine J.             ",Y,Y,A  
+29,1NTALV04,False,95.96000000000001,"Lerner, Sorin                      ",Y,Y,A  
+30,1RHWG5OW,False,90.12,"Lerner, Sorin                      ",Y,Y,A- 
+31,1VKDQJSO,False,96.78,"Lerner, Sorin                      ",Y,Y,A  
+32,1ZZI02ZU,False,95.6,"Lerner, Sorin                      ",Y,Y,A  
+33,20P5QCCX,False,93.04,"Alvarado, Christine J.             ",Y,Y,A  
+35,23RJJJAB,False,85.11,"Alvarado, Christine J.             ",Y,Y,B  
+36,263ZOSV1,False,92.86,"Alvarado, Christine J.             ",Y,Y,A- 
+37,2806MK4M,False,93.39,"Alvarado, Christine J.             ",Y,Y,A  
+38,2823FJJI,False,98.78,"Lerner, Sorin                      ",Y,Y,A+ 
+40,2FF6CRPY,False,93.3,"Lerner, Sorin                      ",Y,Y,A  
+41,2FNJPDH5,False,94.69,"Alvarado, Christine J.             ",Y,Y,A  
+42,2IDE1JDP,False,97.64,"Alvarado, Christine J.             ",Y,Y,A  
+43,2LIGIRQQ,False,91.8,"Alvarado, Christine J.             ",Y,Y,A- 
+44,2LX4PMA3,False,81.54,"Alvarado, Christine J.             ",Y,Y,B- 
+46,2TJC8Z9P,False,91.42,"Alvarado, Christine J.             ",Y,Y,A- 
+47,2VZHHT7Z,False,96.54,"Lerner, Sorin                      ",Y,Y,A  
+49,36GB5HPE,False,69.47,"Lerner, Sorin                      ",Y,Y,D  
+50,37RBMODO,False,96.11,"Alvarado, Christine J.             ",Y,Y,A  
+51,38UH8DHW,False,98.79,"Alvarado, Christine J.             ",Y,Y,A+ 
+52,3APO64LS,False,95.54,"Lerner, Sorin                      ",Y,Y,A  
+53,3C8SI5NY,False,97.37,"Alvarado, Christine J.             ",Y,Y,A  
+54,3DO59N6N,False,98.72,"Alvarado, Christine J.             ",Y,Y,A+ 
+55,3ENSTSL2,False,87.5,"Lerner, Sorin                      ",Y,Y,B+ 
+57,3NSQWXDF,False,91.63,"Lerner, Sorin                      ",Y,Y,A- 
+58,3S0SZ5C4,False,76.36,"Lerner, Sorin                      ",Y,Y,C  
+59,3X17JGAS,False,94.46,"Lerner, Sorin                      ",Y,Y,A  
+60,3XL3NANW,False,98.81,"Alvarado, Christine J.             ",Y,Y,A+ 
+62,3Y9DUGIO,False,95.49,"Lerner, Sorin                      ",Y,Y,A  
+63,3YTH4DOX,False,97.89,"Lerner, Sorin                      ",Y,Y,A  
+64,41Q9NZH9,False,76.88000000000001,"Lerner, Sorin                      ",Y,Y,P  
+65,43GS4AW7,False,95.59,"Alvarado, Christine J.             ",Y,Y,A  
+66,4BWWZI8M,False,92.34,"Alvarado, Christine J.             ",Y,Y,A- 
+67,4G0PPO88,False,95.1,"Alvarado, Christine J.             ",Y,Y,A  
+68,4IXQCIBM,False,98.1,"Lerner, Sorin                      ",Y,Y,A+ 
+69,4JNI3RFL,False,99.38,"Alvarado, Christine J.             ",Y,Y,A+ 
+70,4L5SCOMJ,False,79.35,"Lerner, Sorin                      ",Y,Y,C+ 
+71,4TY7IQMU,False,97.8,"Lerner, Sorin                      ",Y,Y,A  
+72,4VRCTUXD,False,98.19,"Lerner, Sorin                      ",Y,Y,A+ 
+73,4WATCJ9A,False,97.74000000000001,"Alvarado, Christine J.             ",Y,Y,A+ 
+74,58FGC341,False,74.48,"Lerner, Sorin                      ",Y,Y,C  
+75,5BBIGKXW,False,97.98,"Alvarado, Christine J.             ",Y,Y,A+ 
+76,5HB9ZW2S,False,96.65,"Alvarado, Christine J.             ",Y,Y,A  
+78,5IVMMVD6,False,92.78999999999999,"Lerner, Sorin                      ",Y,Y,A- 
+79,5LQH4ZED,False,97.54,"Lerner, Sorin                      ",Y,Y,A  
+80,5OKID1KX,False,90.95,"Lerner, Sorin                      ",Y,Y,A- 
+81,5PEXDAJQ,False,98.16,"Alvarado, Christine J.             ",Y,Y,A+ 
+82,5UAIU1T4,False,90.0,"Alvarado, Christine J.             ",Y,Y,A- 
+83,5VA7IB2O,False,99.33999999999999,"Alvarado, Christine J.             ",Y,Y,A+ 
+84,5VQOMWVO,False,86.6,"Alvarado, Christine J.             ",Y,Y,B  
+85,5XCURLDS,False,90.38000000000001,"Alvarado, Christine J.             ",Y,Y,A- 
+86,5Z87GMPE,False,97.27,"Alvarado, Christine J.             ",Y,Y,A  
+87,63BU2T1Z,False,95.82000000000001,"Alvarado, Christine J.             ",Y,Y,A  
+88,63VGE34R,False,97.52,"Alvarado, Christine J.             ",Y,Y,A  
+89,64SF3V4T,False,93.91000000000001,"Lerner, Sorin                      ",Y,Y,A  
+90,65JLYPR7,False,84.81,"Alvarado, Christine J.             ",Y,Y,B  
+91,668J389O,False,82.78999999999999,"Lerner, Sorin                      ",Y,Y,C- 
+92,69U9087F,False,80.88,"Alvarado, Christine J.             ",Y,Y,B- 
+93,6AN2NYEW,False,97.72,"Lerner, Sorin                      ",Y,Y,A  
+94,6J7JKHYR,False,96.83,"Lerner, Sorin                      ",Y,Y,A  
+95,6LZAC2JA,False,93.73,"Lerner, Sorin                      ",Y,Y,A  
+96,6POBGC6F,False,91.8,"Alvarado, Christine J.             ",Y,Y,A- 
+97,6QDAE16C,False,96.81,"Alvarado, Christine J.             ",Y,Y,A  
+99,6SCSR8QI,False,89.62,"Alvarado, Christine J.             ",Y,Y,B+ 
+100,6VGU8STT,False,97.82,"Alvarado, Christine J.             ",Y,Y,A  
+101,6YW3QBWU,False,92.85,"Lerner, Sorin                      ",Y,Y,A- 
+102,7105EJ1T,False,97.8,"Lerner, Sorin                      ",Y,Y,A+ 
+103,72GB717K,False,90.86,"Alvarado, Christine J.             ",Y,Y,A- 
+104,73BD8V5W,False,48.27,"Lerner, Sorin                      ",Y,Y,NP 
+106,78H841QG,False,90.5,"Lerner, Sorin                      ",Y,Y,A- 
+107,7FAO13VF,False,95.88,"Alvarado, Christine J.             ",Y,Y,A  
+108,7KIWIMK3,False,95.78,"Lerner, Sorin                      ",Y,Y,A  
+109,7OCUS5CI,False,78.8,"Alvarado, Christine J.             ",Y,Y,B- 
+110,7Q7MQ3N3,False,95.39,"Lerner, Sorin                      ",Y,Y,A  
+111,7ROMJT0U,False,98.33,"Alvarado, Christine J.             ",Y,Y,A+ 
+112,7TNYSJV0,False,92.0,"Lerner, Sorin                      ",Y,Y,A- 
+114,7ZDR3PCO,False,90.56,"Alvarado, Christine J.             ",Y,Y,A- 
+115,806STYZK,False,93.55,"Lerner, Sorin                      ",Y,Y,A  
+116,8BPKB7M4,False,71.1,"Lerner, Sorin                      ",Y,Y,F  
+118,8JWV4GC6,False,93.27,"Lerner, Sorin                      ",Y,Y,A  
+120,8WIYQTIR,False,77.12,"Lerner, Sorin                      ",Y,Y,C+ 
+121,9FER7O5R,False,87.76,"Lerner, Sorin                      ",Y,Y,B+ 
+122,9HBNNXT8,False,98.32,"Alvarado, Christine J.             ",Y,Y,A+ 
+124,9IQJUAA6,False,95.48,"Alvarado, Christine J.             ",Y,Y,A  
+125,9ISC9QSQ,False,98.46000000000001,"Alvarado, Christine J.             ",Y,Y,A+ 
+126,9K73MBAY,False,93.04,"Lerner, Sorin                      ",Y,Y,A  
+127,9L8BH6X1,False,95.81,"Alvarado, Christine J.             ",Y,Y,A  
+129,9ONOJ0H6,False,67.32000000000001,"Alvarado, Christine J.             ",Y,Y,F  
+130,9R9A8KB7,False,98.08,"Alvarado, Christine J.             ",Y,Y,A+ 
+131,9V14RFLW,False,97.31,"Alvarado, Christine J.             ",Y,Y,A  
+132,9VME0ZWK,False,82.91,"Alvarado, Christine J.             ",Y,Y,B- 
+133,A5NMJKTE,False,87.32,"Lerner, Sorin                      ",Y,Y,B+ 
+134,ADLZMXZF,False,95.00999999999999,"Alvarado, Christine J.             ",Y,Y,A  
+135,AERWXBQT,False,94.76,"Lerner, Sorin                      ",Y,Y,A  
+136,AG4JIR2V,False,88.09,"Lerner, Sorin                      ",Y,Y,B+ 
+137,AGOOJIZC,False,84.75,"Lerner, Sorin                      ",Y,Y,P  
+138,AGYSTFXE,False,99.29,"Alvarado, Christine J.             ",Y,Y,A+ 
+139,AJTHCM05,False,94.49,"Lerner, Sorin                      ",Y,Y,A  
+140,AMJRZOO4,False,95.99,"Alvarado, Christine J.             ",Y,Y,A  
+141,ASDU4EW1,False,90.79,"Alvarado, Christine J.             ",Y,Y,A- 
+142,AT11GC64,False,91.35,"Lerner, Sorin                      ",Y,Y,A- 
+143,AV7JSUBP,False,93.67,"Alvarado, Christine J.             ",Y,Y,A  
+144,AWKDXR5O,False,89.22,"Lerner, Sorin                      ",Y,Y,C+ 
+145,AWLIQTMU,False,96.05,"Alvarado, Christine J.             ",Y,Y,A  
+146,B0F0VHQM,False,98.26,"Alvarado, Christine J.             ",Y,Y,A+ 
+147,B0NP46RQ,False,93.55,"Lerner, Sorin                      ",Y,Y,A  
+149,B414GPAC,False,92.63,"Lerner, Sorin                      ",Y,Y,A- 
+150,B613BEZ0,False,95.88,"Lerner, Sorin                      ",Y,Y,A  
+151,B81U8RV8,False,86.92,"Lerner, Sorin                      ",Y,Y,C  
+152,BBRJTF91,False,99.42,"Lerner, Sorin                      ",Y,Y,A+ 
+153,BD4H09MX,False,96.59,"Lerner, Sorin                      ",Y,Y,A  
+154,BDIP6BEU,False,93.24,"Lerner, Sorin                      ",Y,Y,B  
+156,BG2PIXEX,False,95.64,"Alvarado, Christine J.             ",Y,Y,A  
+157,BGSGV2HL,False,95.9,"Alvarado, Christine J.             ",Y,Y,A  
+158,BR00GTJ5,False,97.09,"Lerner, Sorin                      ",Y,Y,A  
+159,BSL7NDCZ,False,94.17,"Alvarado, Christine J.             ",Y,Y,A  
+160,BZF1R4W0,False,76.67,"Alvarado, Christine J.             ",Y,Y,F  
+161,C0MPLLR9,False,93.04,"Lerner, Sorin                      ",Y,Y,A  
+162,C3WZSDHO,False,95.30999999999999,"Alvarado, Christine J.             ",Y,Y,A  
+163,C5W50SOI,False,92.66,"Lerner, Sorin                      ",Y,Y,A- 
+166,CDP5TDJM,False,96.81,"Lerner, Sorin                      ",Y,Y,A  
+167,CGT9K6MK,False,93.55,"Lerner, Sorin                      ",Y,Y,A  
+168,CJRV5WJF,False,92.49000000000001,"Alvarado, Christine J.             ",Y,Y,A- 
+169,CL800MTT,False,89.47,"Lerner, Sorin                      ",Y,Y,B+ 
+170,CL9HJ7DD,False,84.36,"Alvarado, Christine J.             ",Y,Y,B  
+171,CLOZ5AAM,False,94.63000000000001,"Alvarado, Christine J.             ",Y,Y,A  
+173,CMDC320F,False,90.45,"Lerner, Sorin                      ",Y,Y,A- 
+174,CQ3HKOYX,False,94.57,"Alvarado, Christine J.             ",Y,Y,A  
+175,CQPMMBE7,False,90.66,"Lerner, Sorin                      ",Y,Y,A- 
+176,CRSI72RY,False,95.09,"Alvarado, Christine J.             ",Y,Y,A  
+177,CSVU80MG,False,87.53999999999999,"Alvarado, Christine J.             ",Y,Y,B+ 
+178,CW0TWPZR,False,95.27,"Alvarado, Christine J.             ",Y,Y,A  
+179,CZIGXRYP,False,96.83,"Alvarado, Christine J.             ",Y,Y,A  
+180,D226NMJP,False,94.71000000000001,"Alvarado, Christine J.             ",Y,Y,A  
+181,D2PDHXCR,False,88.83,"Alvarado, Christine J.             ",Y,Y,B+ 
+182,D4BND4OF,False,72.34,"Lerner, Sorin                      ",Y,Y,C- 
+183,D58K0UOQ,False,98.48,"Lerner, Sorin                      ",Y,Y,A+ 
+184,DDWN6VB1,False,94.23,"Alvarado, Christine J.             ",Y,Y,A  
+185,DEYZMWO6,False,80.3,"Lerner, Sorin                      ",Y,Y,B- 
+187,DJBVREYM,False,89.18,"Lerner, Sorin                      ",Y,Y,B+ 
+188,DJVQXO0Y,False,88.91,"Alvarado, Christine J.             ",Y,Y,B+ 
+189,DN5L5E02,False,92.34,"Alvarado, Christine J.             ",Y,Y,A- 
+191,DTZ3WEFP,False,98.72999999999999,"Alvarado, Christine J.             ",Y,Y,A+ 
+192,DUKBIFIV,False,96.26,"Alvarado, Christine J.             ",Y,Y,A  
+193,DWRQLM42,False,96.00999999999999,"Alvarado, Christine J.             ",Y,Y,A  
+194,E1K24ERG,False,86.82,"Lerner, Sorin                      ",Y,Y,B  
+195,E7D1676F,False,92.3,"Lerner, Sorin                      ",Y,Y,A- 
+197,E7V1XN6U,False,94.97,"Alvarado, Christine J.             ",Y,Y,A  
+198,E885V9W9,False,85.15,"Alvarado, Christine J.             ",Y,Y,B  
+199,E8QP4BFL,False,89.18,"Alvarado, Christine J.             ",Y,Y,B+ 
+200,E96EJ1W7,False,91.45,"Lerner, Sorin                      ",Y,Y,A- 
+201,EBRJ26QD,False,92.16,"Alvarado, Christine J.             ",Y,Y,A- 
+202,EFM5M2F2,False,96.71,"Lerner, Sorin                      ",Y,Y,A  
+203,EFM5M2F2,False,96.71,"Lerner, Sorin                      ",Y,Y,A  
+204,EG06PPYB,False,75.98,"Alvarado, Christine J.             ",Y,Y,C  
+206,EN9M2QX9,False,80.91000000000001,"Lerner, Sorin                      ",Y,Y,B- 
+207,ES5TP0KY,False,88.84,"Lerner, Sorin                      ",Y,Y,B+ 
+208,EU9L3V2S,False,79.01,"Alvarado, Christine J.             ",Y,Y,C+ 
+209,EXBTEBFC,False,93.46,"Alvarado, Christine J.             ",Y,Y,A  
+210,EZM58OT8,False,96.93,"Alvarado, Christine J.             ",Y,Y,A  
+211,F1OC0OSJ,False,86.5,"Alvarado, Christine J.             ",Y,Y,B  
+212,F22XWAA8,False,95.2,"Lerner, Sorin                      ",Y,Y,A  
+213,F3F1ZOMR,False,96.54,"Lerner, Sorin                      ",Y,Y,A  
+214,F74NGECY,False,97.66,"Alvarado, Christine J.             ",Y,Y,A  
+215,F9ZB9QXX,False,93.97999999999999,"Lerner, Sorin                      ",Y,Y,A  
+216,FCSCRQ69,False,98.75,"Alvarado, Christine J.             ",Y,Y,A+ 
+217,FET6T324,False,90.25999999999999,"Alvarado, Christine J.             ",Y,Y,A- 
+218,FNTCHD74,False,96.14,"Lerner, Sorin                      ",Y,Y,A  
+219,FVZD1SZ5,False,83.77,"Lerner, Sorin                      ",Y,Y,B  
+220,G05T833E,False,98.22999999999999,"Lerner, Sorin                      ",Y,Y,A+ 
+221,G5TXVPT5,False,89.53999999999999,"Lerner, Sorin                      ",Y,Y,B+ 
+224,GB15HU58,False,91.46,"Lerner, Sorin                      ",Y,Y,A- 
+225,GFYRZ57B,False,65.84,"Alvarado, Christine J.             ",Y,Y,F  
+226,GIYYL71M,False,96.41,"Alvarado, Christine J.             ",Y,Y,A  
+227,GK12PDL9,False,95.34,"Lerner, Sorin                      ",Y,Y,A  
+228,GPQIUEA9,False,95.28999999999999,"Lerner, Sorin                      ",Y,Y,A  
+229,GR6F8DYJ,False,69.46,"Lerner, Sorin                      ",Y,Y,F  
+230,GRPNYVAS,False,93.15,"Lerner, Sorin                      ",Y,Y,A  
+231,GV8O09G5,False,99.28,"Lerner, Sorin                      ",Y,Y,A+ 
+232,GYM9HLU1,False,95.41,"Alvarado, Christine J.             ",Y,Y,A  
+233,GZ7147OJ,False,93.51,"Alvarado, Christine J.             ",Y,Y,A  
+234,H05DIVIH,False,94.72,"Alvarado, Christine J.             ",Y,Y,A  
+235,H2OPMGTZ,False,91.47,"Alvarado, Christine J.             ",Y,Y,A- 
+236,H2Z5S6CE,False,97.72999999999999,"Alvarado, Christine J.             ",Y,Y,A  
+238,HJSLFCBH,False,95.24000000000001,"Lerner, Sorin                      ",Y,Y,A  
+239,HL5L331C,False,95.6,"Alvarado, Christine J.             ",Y,Y,A  
+240,HSFAS81S,False,90.51,"Alvarado, Christine J.             ",Y,Y,A- 
+241,HW3IKNUC,False,97.33000000000001,"Lerner, Sorin                      ",Y,Y,A  
+242,HZ91TFR7,False,78.31,"Alvarado, Christine J.             ",Y,Y,C+ 
+243,I56PLFF0,False,96.84,"Lerner, Sorin                      ",Y,Y,A  
+244,I5TBS6UK,False,92.25,"Lerner, Sorin                      ",Y,Y,A- 
+245,I8OCRZQK,False,97.92999999999999,"Lerner, Sorin                      ",Y,Y,A  
+246,IEHVVYEF,False,96.7,"Lerner, Sorin                      ",Y,Y,A  
+248,IHEKLGA1,False,89.25999999999999,"Lerner, Sorin                      ",Y,Y,B+ 
+249,IHSNE5ZD,False,96.73,"Lerner, Sorin                      ",Y,Y,A  
+251,IP3FMI9B,False,93.56,"Alvarado, Christine J.             ",Y,Y,A  
+252,IR5RDF7M,False,95.94,"Alvarado, Christine J.             ",Y,Y,A  
+253,ISVFEMZR,False,92.89,"Alvarado, Christine J.             ",Y,Y,A- 
+254,ITI1OT02,False,39.18,"Lerner, Sorin                      ",Y,Y,F  
+255,IU5XZVEU,False,40.44,"Lerner, Sorin                      ",Y,Y,F  
+256,IVHRLB7K,False,53.839999999999996,"Alvarado, Christine J.             ",Y,Y,F  
+257,IWYOZJST,False,91.66,"Alvarado, Christine J.             ",Y,Y,A- 
+258,IYOPPGV5,False,93.15,"Alvarado, Christine J.             ",Y,Y,A  
+259,IZV79Z1B,False,97.06,"Alvarado, Christine J.             ",Y,Y,A  
+260,J17QWOUJ,False,93.45,"Alvarado, Christine J.             ",Y,Y,A  
+261,J459XRL1,False,93.57,"Lerner, Sorin                      ",Y,Y,A  
+263,J8GI9DFV,False,98.46000000000001,"Lerner, Sorin                      ",Y,Y,A+ 
+264,J8QWEZXF,False,78.72,"Lerner, Sorin                      ",Y,Y,C+ 
+265,JAX4144P,False,86.11999999999999,"Lerner, Sorin                      ",Y,Y,B  
+266,JE0UDU7G,False,93.92,"Alvarado, Christine J.             ",Y,Y,A  
+267,JGB3L5TV,False,93.3,"Lerner, Sorin                      ",Y,Y,A  
+268,JL2CQO0Y,False,80.65,"Alvarado, Christine J.             ",Y,Y,B- 
+269,JMB7JZQE,False,89.42999999999999,"Lerner, Sorin                      ",Y,Y,B+ 
+270,JNPG46PU,False,88.37,"Alvarado, Christine J.             ",Y,Y,B+ 
+271,JQW9ZYI7,False,89.94,"Alvarado, Christine J.             ",Y,Y,B+ 
+272,JS8I4GHG,False,89.79,"Lerner, Sorin                      ",Y,Y,B+ 
+273,JV5P771G,False,91.28,"Lerner, Sorin                      ",Y,Y,A- 
+274,JZUY5MHH,False,98.22,"Alvarado, Christine J.             ",Y,Y,A+ 
+275,K0FK5GG0,False,86.41,"Alvarado, Christine J.             ",Y,Y,B  
+276,K230LIFQ,False,44.6,"Lerner, Sorin                      ",Y,Y,I  
+278,K4O7N0KG,False,76.12,"Lerner, Sorin                      ",Y,Y,F  
+279,K58KG156,False,98.6,"Alvarado, Christine J.             ",Y,Y,A+ 
+280,K9444F6X,False,96.87,"Lerner, Sorin                      ",Y,Y,A  
+281,K9M0R5NS,False,85.92999999999999,"Lerner, Sorin                      ",Y,Y,B  
+282,KBC4X3Q8,False,93.58999999999999,"Lerner, Sorin                      ",Y,Y,A  
+283,KEVGY2QF,False,95.73,"Lerner, Sorin                      ",Y,Y,A  
+284,KILP19JM,False,47.99,"Lerner, Sorin                      ",Y,Y,F  
+285,KK6138WW,False,98.58,"Lerner, Sorin                      ",Y,Y,A+ 
+286,KKYJYTTD,False,91.09,"Lerner, Sorin                      ",Y,Y,A- 
+288,KUS3T8XV,False,90.53999999999999,"Lerner, Sorin                      ",Y,Y,A- 
+289,KY0I23AD,False,97.87,"Lerner, Sorin                      ",Y,Y,A  
+290,KY82OGR8,False,97.2,"Lerner, Sorin                      ",Y,Y,A  
+291,L0EUXJ5Q,False,93.99,"Lerner, Sorin                      ",Y,Y,A  
+292,L0WFR75T,False,94.61,"Lerner, Sorin                      ",Y,Y,A  
+293,L3301MTE,False,65.74,"Lerner, Sorin                      ",Y,Y,F  
+294,L6N9CT2Z,False,97.58,"Lerner, Sorin                      ",Y,Y,A  
+295,L7ASJVIO,False,93.72,"Alvarado, Christine J.             ",Y,Y,A  
+296,LAP4IT5J,False,96.41,"Alvarado, Christine J.             ",Y,Y,A  
+297,LGSKLEBN,False,95.55,"Lerner, Sorin                      ",Y,Y,A  
+298,LI0L0EDU,False,96.0,"Lerner, Sorin                      ",Y,Y,A  
+299,LK0AV7SN,False,82.25,"Alvarado, Christine J.             ",Y,Y,B- 
+300,LKMRGJH2,False,95.14,"Alvarado, Christine J.             ",Y,Y,A  
+301,LMJAIJ2D,False,99.51,"Alvarado, Christine J.             ",Y,Y,A+ 
+302,LR3PWW8B,False,86.85000000000001,"Lerner, Sorin                      ",Y,Y,B  
+303,LT4ZCY4I,False,82.88,"Lerner, Sorin                      ",Y,Y,B- 
+304,LX5BT4UT,False,83.15,"Alvarado, Christine J.             ",Y,Y,P  
+305,LYVRVVL8,False,95.28999999999999,"Alvarado, Christine J.             ",Y,Y,A  
+306,LZ0DBCRW,False,84.78,"Alvarado, Christine J.             ",Y,Y,B  
+307,M0IWKTA7,False,93.54,"Lerner, Sorin                      ",Y,Y,A  
+308,M0XVLNB1,False,93.92,"Alvarado, Christine J.             ",Y,Y,A  
+310,M8J3O0P6,False,88.27000000000001,"Alvarado, Christine J.             ",Y,Y,B+ 
+311,MAZ5AMVO,False,70.82000000000001,"Lerner, Sorin                      ",Y,Y,F  
+312,MDYUAN6J,False,85.50999999999999,"Lerner, Sorin                      ",Y,Y,B  
+313,MRIN3H3P,False,92.39,"Alvarado, Christine J.             ",Y,Y,A- 
+314,MS58HO5O,False,98.14,"Alvarado, Christine J.             ",Y,Y,A+ 
+315,MTKRTVXG,False,26.36,"Alvarado, Christine J.             ",Y,Y,NP 
+316,MWPCH3Z0,False,85.87,"Alvarado, Christine J.             ",Y,Y,B  
+317,N04IZFPP,False,92.75999999999999,"Alvarado, Christine J.             ",Y,Y,A- 
+318,N696TM9G,False,98.28,"Lerner, Sorin                      ",Y,Y,A+ 
+319,N9QUM2TI,False,95.2,"Lerner, Sorin                      ",Y,Y,A  
+320,NCH6KPWX,False,97.49,"Alvarado, Christine J.             ",Y,Y,A  
+321,NI2X7ZFF,False,38.940000000000005,"Alvarado, Christine J.             ",Y,Y,F  
+322,NKJ6WPZ7,False,83.85000000000001,"Lerner, Sorin                      ",Y,Y,B  
+323,NL2TXV52,False,90.94,"Alvarado, Christine J.             ",Y,Y,A- 
+324,NL3XNCCZ,False,99.11,"Alvarado, Christine J.             ",Y,Y,A+ 
+326,NOCUNUYL,False,87.21,"Lerner, Sorin                      ",Y,Y,B+ 
+327,NOTLEB1I,False,84.84,"Alvarado, Christine J.             ",Y,Y,B  
+328,NRNHOJ8O,False,85.16,"Lerner, Sorin                      ",Y,Y,B  
+331,NWELEL8P,False,93.45,"Lerner, Sorin                      ",Y,Y,A  
+333,NYW5ODPV,False,95.43,"Lerner, Sorin                      ",Y,Y,A  
+334,O14CJMHJ,False,97.7,"Lerner, Sorin                      ",Y,Y,A+ 
+335,O2ND6P18,False,97.98,"Alvarado, Christine J.             ",Y,Y,A+ 
+336,O6IQSPP1,False,95.93,"Alvarado, Christine J.             ",Y,Y,A  
+337,O9M9R0NW,False,91.14999999999999,"Alvarado, Christine J.             ",Y,Y,A- 
+338,OBR5XS0L,False,98.72999999999999,"Alvarado, Christine J.             ",Y,Y,A+ 
+339,OFCVB39Y,False,88.57000000000001,"Lerner, Sorin                      ",Y,Y,B+ 
+340,OFS485M5,False,95.46,"Alvarado, Christine J.             ",Y,Y,A  
+341,OI6KDEMT,False,81.06,"Lerner, Sorin                      ",Y,Y,B- 
+343,OP30VHLJ,False,93.53,"Lerner, Sorin                      ",Y,Y,A  
+344,OQ1WS9NK,False,95.30999999999999,"Alvarado, Christine J.             ",Y,Y,A  
+345,P08QK7O7,False,97.07000000000001,"Alvarado, Christine J.             ",Y,Y,A+ 
+346,P7Z82NUN,False,82.66,"Lerner, Sorin                      ",Y,Y,B- 
+347,P81O12J2,False,95.49,"Alvarado, Christine J.             ",Y,Y,A  
+348,PAL5MWOM,False,88.23,"Lerner, Sorin                      ",Y,Y,B+ 
+349,PCHV3407,False,90.19,"Lerner, Sorin                      ",Y,Y,A- 
+350,PDRUHDH6,False,95.03,"Alvarado, Christine J.             ",Y,Y,A  
+351,PDRUHDH6,False,95.03,"Alvarado, Christine J.             ",Y,Y,A  
+352,PEJWD34Y,False,91.92,"Lerner, Sorin                      ",Y,Y,A- 
+353,PF6TTOET,False,94.85,"Lerner, Sorin                      ",Y,Y,A  
+354,PJGB7PX3,False,91.79,"Lerner, Sorin                      ",Y,Y,A- 
+356,PM81UNCC,False,88.46000000000001,"Alvarado, Christine J.             ",Y,Y,B+ 
+357,PMI316M8,False,75.14999999999999,"Lerner, Sorin                      ",Y,Y,D  
+358,PNAYBPRJ,False,95.89,"Alvarado, Christine J.             ",Y,Y,A  
+360,PPACSPZ0,False,84.23,"Alvarado, Christine J.             ",Y,Y,B  
+361,PQVDOD1Q,False,90.44,"Lerner, Sorin                      ",Y,Y,A- 
+363,PYM0DP2G,False,88.67,"Alvarado, Christine J.             ",Y,Y,B+ 
+365,Q2QBQQPL,False,88.71,"Alvarado, Christine J.             ",Y,Y,B+ 
+366,Q3CIPJRB,False,90.56,"Lerner, Sorin                      ",Y,Y,A- 
+367,Q4OIBFL1,False,92.99,"Lerner, Sorin                      ",Y,Y,A  
+368,Q94RGS14,False,91.83,"Alvarado, Christine J.             ",Y,Y,A- 
+369,QAEP4BAP,False,94.67999999999999,"Lerner, Sorin                      ",Y,Y,A  
+370,QECFHSYP,False,89.03,"Alvarado, Christine J.             ",Y,Y,B+ 
+371,QGAGXYDE,False,96.21,"Lerner, Sorin                      ",Y,Y,A  
+372,QHYGKP8X,False,79.57,"Alvarado, Christine J.             ",Y,Y,P  
+373,QKKEGR2D,False,98.78,"Lerner, Sorin                      ",Y,Y,A+ 
+374,QRBSV3FX,False,58.35,"Alvarado, Christine J.             ",Y,Y,F  
+375,QS8OFEVB,False,84.44,"Lerner, Sorin                      ",Y,Y,B  
+376,QTHEP0B6,False,94.88,"Lerner, Sorin                      ",Y,Y,A  
+377,QTMIZ2YK,False,72.81,"Lerner, Sorin                      ",Y,Y,F  
+378,QUYJ46VQ,False,92.1,"Lerner, Sorin                      ",Y,Y,A- 
+379,QV1UMQ4S,False,91.59,"Lerner, Sorin                      ",Y,Y,A- 
+381,QX8GBG30,False,78.52,"Lerner, Sorin                      ",Y,Y,C+ 
+385,R3XRCRNI,False,77.64999999999999,"Lerner, Sorin                      ",Y,Y,C+ 
+386,R6269XF8,False,96.33,"Alvarado, Christine J.             ",Y,Y,A  
+387,R7SVGVDT,False,86.0,"Lerner, Sorin                      ",Y,Y,B  
+388,R9DLP03N,False,89.84,"Lerner, Sorin                      ",Y,Y,B+ 
+389,RAIAK65W,False,91.67999999999999,"Alvarado, Christine J.             ",Y,Y,A- 
+390,RFEZET82,False,96.07,"Lerner, Sorin                      ",Y,Y,A  
+391,RJJCD1N3,False,93.45,"Alvarado, Christine J.             ",Y,Y,A  
+392,RLG9E2ZV,False,98.24000000000001,"Lerner, Sorin                      ",Y,Y,A+ 
+393,RMRJCO49,False,73.64,"Lerner, Sorin                      ",Y,Y,C  
+394,RNWRAIYU,False,94.08,"Lerner, Sorin                      ",Y,Y,A  
+395,ROADWW4Z,False,98.71,"Alvarado, Christine J.             ",Y,Y,A+ 
+396,RP8U02PI,False,88.07000000000001,"Lerner, Sorin                      ",Y,Y,B+ 
+397,RQOXRHO3,False,93.24,"Lerner, Sorin                      ",Y,Y,A  
+398,RQU3W53Q,False,96.61,"Alvarado, Christine J.             ",Y,Y,A  
+399,RSXIMS8L,False,76.37,"Alvarado, Christine J.             ",Y,Y,C  
+401,RW3DERRC,False,83.4,"Lerner, Sorin                      ",Y,Y,B  
+402,RWYCXIXB,False,98.89,"Alvarado, Christine J.             ",Y,Y,A+ 
+403,S77LVX9W,False,87.55,"Alvarado, Christine J.             ",Y,Y,B+ 
+404,S8AQ1E0W,False,88.38000000000001,"Lerner, Sorin                      ",Y,Y,B+ 
+405,S9PCRZCY,False,90.99000000000001,"Alvarado, Christine J.             ",Y,Y,A- 
+406,SD3WLRSB,False,91.64,"Lerner, Sorin                      ",Y,Y,A- 
+407,SERRF52V,False,91.35,"Lerner, Sorin                      ",Y,Y,A- 
+408,SHZEH9DZ,False,99.17,"Lerner, Sorin                      ",Y,Y,A+ 
+409,SK2OYHEO,False,98.89,"Alvarado, Christine J.             ",Y,Y,A+ 
+410,SNWLT08W,False,98.89,"Alvarado, Christine J.             ",Y,Y,A+ 
+411,SOHR6ITT,False,71.17,"Lerner, Sorin                      ",Y,Y,F  
+412,SQDFVKSL,False,90.36,"Lerner, Sorin                      ",Y,Y,A- 
+413,SSV3612M,False,73.66,"Lerner, Sorin                      ",Y,Y,D  
+414,ST4WA3DA,False,98.6,"Alvarado, Christine J.             ",Y,Y,A+ 
+415,SWMJL3GI,False,74.98,"Lerner, Sorin                      ",Y,Y,C  
+416,T0HH089U,False,95.78,"Lerner, Sorin                      ",Y,Y,A  
+418,T31RR9FE,False,81.16,"Lerner, Sorin                      ",Y,Y,B- 
+419,T38BOXVJ,False,93.65,"Lerner, Sorin                      ",Y,Y,A  
+421,T4VUTUQF,False,91.73,"Lerner, Sorin                      ",Y,Y,A- 
+422,T527R78N,False,94.78999999999999,"Lerner, Sorin                      ",Y,Y,A  
+423,T9NH0TQ9,False,89.28,"Lerner, Sorin                      ",Y,Y,B+ 
+425,TB89HD43,False,93.93,"Alvarado, Christine J.             ",Y,Y,A  
+426,TCLB82FF,False,74.36,"Alvarado, Christine J.             ",Y,Y,C  
+427,TDA1QQPZ,False,92.16,"Alvarado, Christine J.             ",Y,Y,A- 
+428,TIODLL4L,False,83.78999999999999,"Lerner, Sorin                      ",Y,Y,B  
+429,TK1F70UM,False,89.42999999999999,"Lerner, Sorin                      ",Y,Y,B+ 
+430,TLI98M8L,False,59.28,"Alvarado, Christine J.             ",Y,Y,NP 
+431,TMT7GS7I,False,86.25,"Lerner, Sorin                      ",Y,Y,B  
+432,TN5HUQXA,False,90.01,"Alvarado, Christine J.             ",Y,Y,A- 
+433,TOL2C8IW,False,96.81,"Alvarado, Christine J.             ",Y,Y,A  
+434,TU32JQ00,False,90.86999999999999,"Lerner, Sorin                      ",Y,Y,A- 
+436,TYKOSK3G,False,98.95,"Lerner, Sorin                      ",Y,Y,A+ 
+437,TYROY0V2,False,85.3,"Lerner, Sorin                      ",Y,Y,B  
+438,U44P0KES,False,94.5,"Alvarado, Christine J.             ",Y,Y,A  
+439,U4I688QV,False,98.89,"Alvarado, Christine J.             ",Y,Y,A+ 
+440,U5T1NG6U,False,96.13000000000001,"Alvarado, Christine J.             ",Y,Y,A  
+441,UDYR522Z,False,51.790000000000006,"Alvarado, Christine J.             ",Y,Y,F  
+442,UH5C5WY6,False,93.77,"Alvarado, Christine J.             ",Y,Y,A  
+443,UI51SANE,False,94.78,"Alvarado, Christine J.             ",Y,Y,A  
+446,UIXGQJ1S,False,98.45,"Alvarado, Christine J.             ",Y,Y,A+ 
+447,UMXIQQJC,False,96.4,"Lerner, Sorin                      ",Y,Y,A  
+448,UQ1V8VVF,False,97.77,"Alvarado, Christine J.             ",Y,Y,A  
+449,UQEVR1U7,False,87.42,"Lerner, Sorin                      ",Y,Y,B+ 
+450,UWLZ2TMM,False,76.73,"Lerner, Sorin                      ",Y,Y,C  
+451,UWWDTQ1H,False,86.61,"Lerner, Sorin                      ",Y,Y,B  
+452,UZSWSQ3J,False,98.11999999999999,"Lerner, Sorin                      ",Y,Y,A+ 
+453,V0JWYM5B,False,92.17999999999999,"Lerner, Sorin                      ",Y,Y,A- 
+454,V0ZDT5YD,False,91.03,"Lerner, Sorin                      ",Y,Y,A- 
+457,VGOLLU0S,False,93.94,"Alvarado, Christine J.             ",Y,Y,A  
+458,VHZ2MBN6,False,97.84,"Lerner, Sorin                      ",Y,Y,A  
+459,VNFYM2K5,False,93.19,"Lerner, Sorin                      ",Y,Y,A  
+460,VPW99F3X,False,98.42,"Alvarado, Christine J.             ",Y,Y,A+ 
+461,VVN0PWET,False,95.47,"Alvarado, Christine J.             ",Y,Y,A  
+462,VWTD1YZA,False,79.49000000000001,"Alvarado, Christine J.             ",Y,Y,C+ 
+463,VY4MZGE7,False,86.91,"Alvarado, Christine J.             ",Y,Y,B  
+464,W214WAMH,False,83.94,"Lerner, Sorin                      ",Y,Y,B  
+466,WCNPLLO3,False,94.16,"Alvarado, Christine J.             ",Y,Y,A  
+467,WJC0S984,False,78.86999999999999,"Lerner, Sorin                      ",Y,Y,C+ 
+468,WKQ3YXRO,False,97.4,"Alvarado, Christine J.             ",Y,Y,A  
+469,WMQIKGMG,False,93.87,"Lerner, Sorin                      ",Y,Y,A  
+470,WU0TQMUM,False,87.06,"Alvarado, Christine J.             ",Y,Y,B+ 
+471,WXTT1VJ4,False,86.83999999999999,"Alvarado, Christine J.             ",Y,Y,B  
+472,WXUWSSX8,False,82.93,"Lerner, Sorin                      ",Y,Y,B- 
+473,WZX0UDPH,False,98.81,"Alvarado, Christine J.             ",Y,Y,A+ 
+474,X2673J6L,False,94.43,"Lerner, Sorin                      ",Y,Y,A  
+475,XFE0GECY,False,88.68,"Lerner, Sorin                      ",Y,Y,B+ 
+476,XGDEG69D,False,88.52,"Lerner, Sorin                      ",Y,Y,P  
+477,XIJ141P2,False,98.57000000000001,"Alvarado, Christine J.             ",Y,Y,A+ 
+478,XIJNBZVD,False,91.56,"Lerner, Sorin                      ",Y,Y,A- 
+479,XIZON7YH,False,89.42999999999999,"Lerner, Sorin                      ",Y,Y,B+ 
+480,XLY0LOX9,False,91.09,"Alvarado, Christine J.             ",Y,Y,A- 
+481,XMEQXJWQ,False,97.87,"Alvarado, Christine J.             ",Y,Y,A  
+482,XYUQZ9N4,False,94.52000000000001,"Lerner, Sorin                      ",Y,Y,A  
+483,XZSTYJX4,False,93.9,"Alvarado, Christine J.             ",Y,Y,A  
+484,Y0TCWZ5T,False,97.02,"Lerner, Sorin                      ",Y,Y,A  
+485,Y0TCWZ5T,False,97.02,"Lerner, Sorin                      ",Y,Y,A  
+486,Y2BE0Q8A,False,83.83,"Alvarado, Christine J.             ",Y,Y,B  
+487,Y8OAUQ5S,False,98.9,"Lerner, Sorin                      ",Y,Y,A+ 
+490,YI3A9OVR,False,90.69,"Alvarado, Christine J.             ",Y,Y,P  
+491,YI7230RK,False,97.82,"Alvarado, Christine J.             ",Y,Y,A  
+492,YL8IXZJ0,False,96.97,"Lerner, Sorin                      ",Y,Y,A  
+493,YLZIMV7U,False,89.08,"Alvarado, Christine J.             ",Y,Y,B+ 
+494,YM2TIKL3,False,69.48,"Alvarado, Christine J.             ",Y,Y,F  
+495,YOT5DMBO,False,72.16,"Alvarado, Christine J.             ",Y,Y,C- 
+496,YRKLV7Q7,False,98.7,"Lerner, Sorin                      ",Y,Y,A+ 
+497,YUJQPQU4,False,96.98,"Alvarado, Christine J.             ",Y,Y,A  
+498,YY2ZOLVA,False,89.8,"Lerner, Sorin                      ",Y,Y,B+ 
+499,Z0RX8XJ5,False,91.39,"Alvarado, Christine J.             ",Y,Y,A- 
+500,Z71AITNN,False,80.53,"Lerner, Sorin                      ",Y,Y,P  
+501,Z7EF73TL,False,72.76,"Lerner, Sorin                      ",Y,Y,F  
+502,Z7I3KBTW,False,94.65,"Alvarado, Christine J.             ",Y,Y,A  
+503,Z8OUCK0Q,False,94.06,"Lerner, Sorin                      ",Y,Y,A  
+504,ZB71H0JA,False,89.25,"Lerner, Sorin                      ",Y,Y,P  
+505,ZB74VNZ0,False,81.42,"Alvarado, Christine J.             ",Y,Y,B- 
+506,ZDT8X2NB,False,90.91,"Alvarado, Christine J.             ",Y,Y,A- 
+507,ZHJCCN69,False,96.39,"Alvarado, Christine J.             ",Y,Y,A  
+508,ZIGXPHDZ,False,76.75999999999999,"Lerner, Sorin                      ",Y,Y,C  
+509,ZJ6KG27S,False,89.12,"Lerner, Sorin                      ",Y,Y,B+ 
+510,ZJSMFC90,False,95.73,"Alvarado, Christine J.             ",Y,Y,A  
+511,ZL9IUHFE,False,94.15,"Alvarado, Christine J.             ",Y,Y,A  
+512,ZLUQ64JU,False,67.38,"Lerner, Sorin                      ",Y,Y,F  
+513,ZMUMVQYI,False,74.5,"Alvarado, Christine J.             ",Y,Y,D  
+514,ZN7NCZI5,False,96.67999999999999,"Lerner, Sorin                      ",Y,Y,A  
+515,ZOP27CR8,False,89.71000000000001,"Lerner, Sorin                      ",Y,Y,B+ 
+516,ZST5JOVK,False,92.54,"Alvarado, Christine J.             ",Y,Y,A- 
+518,ZYYGJAY0,False,95.12,"Alvarado, Christine J.             ",Y,Y,A  
